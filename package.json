@@ -1,0 +1,23 @@
+{
+  "name": "mi-primer-proyecto-con-bootstrap",
+  "version": "1.0.0",
+  "description": "Aqui se haran todas las practicas futuras de Bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taichims19/Bootstrap-5-Practicas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taichims19/Bootstrap-5-Practicas/issues"
+  },
+  "homepage": "https://github.com/Taichims19/Bootstrap-5-Practicas#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}

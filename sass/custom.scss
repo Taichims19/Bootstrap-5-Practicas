@@ -1,0 +1,26 @@
+// Revisar el archivo node_modules\bootstrap\scss\_variables.scss
+$primary:#733FC8;
+$success: #49556B;
+$dark: #18202D;
+$secondary: #EDF2F8;
+
+// Revisar el archivo node_modules\bootstrap\scss\_variables.scss
+
+$font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
+
+// https://getbootstrap.com/docs/5.0/layout/breakpoints/#min-width
+@media  (min-width: 992px) {
+    .alto-100 {
+        min-height: 100vh;
+    }
+    .hijo-100 {
+        max-height: 100vh;
+    }
+}
+
+.d-flex img {
+    width: 50px;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
